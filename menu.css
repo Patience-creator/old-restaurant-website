@@ -1,0 +1,25 @@
+.text > button {
+    background: linear-gradient(to right, #d0d3ca, #b8b1b4,#9c9e93);
+    border: none;
+    color: white;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+  .button {
+    background: linear-gradient(to right, #d0d3ca, #b8b1b4,#9c9e93);
+    border: none;
+    color: white;
+    padding: 20px 34px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;        
+  }
